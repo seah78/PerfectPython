@@ -133,4 +133,4 @@ dmypy.json
 nosdeputes.fr_deputes_en_mandat_2021-05-10.csv
 syseron.xml.zip
 xml
-_DS_Store
+.DS_Store
